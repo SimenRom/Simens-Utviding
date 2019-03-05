@@ -1,0 +1,32 @@
+name: SimensUtviding
+main: me.SimenRom.SimensUtviding
+version: 1.0
+api-version: 1.13
+commands:
+   hello:
+      description: Gir litt ulik feedback.
+      usage: /<command>
+   tps:
+      description: Teleporter deg til oppgitt spelar
+      usage: /<command>
+   peng:
+      description: Pengesystem. For hjelp, skriv /peng hjelp
+      usage: /<command>
+   godta:
+      description: Godta teleport til deg
+      usage: /<command>
+   warp:
+      description: For hjelp om warp, skriv /warp hjelp
+      usage: /<command>
+   startpakke:
+      description: Kjop din startpakke for serveren
+      usage: /<command>
+   resettKontoar:
+      description: Ikkje bruk denna.
+      usage: /<command>
+   dag:
+      description: Sett tid til dag.
+      usage: /<command>
+   sjekkSov:
+      description: Sjekk sov.
+      usage: /<command>
