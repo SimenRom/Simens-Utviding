@@ -1,4 +1,4 @@
-# Simens-Utviding
+# Simens-Minecraft-Server-Plugin
 Bukkit Plugin for Minecraft Server. Laga for privat server med venner. Du er velkommen å bruke den til privat bruk.
 
 Dette prosjektet er veldig skreddersydd min eigen server med tanke på:
